@@ -1,4 +1,4 @@
-# Study 1 — Fairness Perception and Trust Erosion: A Five-Year Longitudinal Study
+# Study 1 — Fairness Perception and Trust Erosion in Competitive Mobile Gaming: A Five-Year Longitudinal Study
 
 **Source:** [OSF preprint, DOI 10.31235/osf.io/gzsr7_v1](https://doi.org/10.31235/osf.io/gzsr7_v1)  
 **Manuscript date:** October 2026 · **Review status:** Not peer reviewed, as stated in the manuscript.
