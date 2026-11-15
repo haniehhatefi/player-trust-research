@@ -1,17 +1,29 @@
 cff-version: 1.2.0
-message: "If you use this repository, cite the relevant research preprint(s) listed in references/bibliography.md. This citation metadata describes the repository documentation, not the restricted datasets."
+
+message: >-
+  If you use this repository, cite the relevant research preprint(s)
+  listed in references/bibliography.md. This citation metadata describes
+  the repository documentation, not the restricted datasets.
+
 title: "Player Trust Research: Fairness Perception and Trust Erosion in Competitive Mobile Gaming"
+
 authors:
   - family-names: "Hatefi Yousefi"
     given-names: "Hanieh"
+    orcid: "https://orcid.org/0009-0004-5357-1381"
+
 version: "1.0.0"
 date-released: "2026-11-15"
+
+url: "https://github.com/haniehhatefi/player-trust-research"
+
 abstract: >-
   Public-facing documentation for two related qualitative research studies
   examining player discourse about perceived fairness, manipulation, and trust
   in competitive mobile backgammon environments. The repository documents
   source-specific methods and findings while preserving client and product
   anonymity. It does not distribute raw datasets or grant an open reuse licence.
+
 keywords:
   - UX research
   - player experience
