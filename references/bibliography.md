@@ -52,7 +52,6 @@ Wei, P.-S., & Lu, H.-P. (2014). Why do people play mobile social games? An exami
 
 Whitson, J. A., & Galinsky, A. D. (2008). Lacking control increases illusory pattern perception. *Science, 322*(5898), 115–117. https://doi.org/10.1126/science.1159845
 
-Zagal, J. P., Björk, S., & Lewis, C. (2013). Dark patterns in the design of games. In *Proceedings of the 8th International Conference on the Foundations of Digital Games*. Society for the Advancement of the Science of Digital Games.
-
+Zagal, J. P., Björk, S., & Lewis, C. (2013). Dark patterns in the design of games. In Proceedings of the 8th International Conference on the Foundations of Digital Games (pp. 39–46). Society for the Advancement of the Science of Digital Games.
 ## Verification note
 The list contains the distinct references appearing in the two supplied manuscripts, with duplicates consolidated. The cross-cultural manuscript cites Hatefi (2026) in its theoretical discussion but does not include a corresponding full entry in its own reference list; that omission is not reconstructed here. The list is drawn from the reference lists of the two source manuscripts. Exact title wording and publication details should be checked against authoritative publisher records before formal journal submission.
